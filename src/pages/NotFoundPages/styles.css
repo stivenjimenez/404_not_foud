@@ -53,6 +53,7 @@
   color: #ffffff;
   font-size: 14px;
   border: none;
+  transition: all 0.25s ease;
 }
 
 .hero__button:hover {
