@@ -10,7 +10,7 @@
 
 - HTML5 semántico
 - CSS y BEM
-- Ract - vite ⚡️
+- React - vite ⚡️
 
 ![2](https://user-images.githubusercontent.com/58489695/168091770-76dd7da0-735f-4985-8cb2-014850658da0.png)
 
