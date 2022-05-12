@@ -1,8 +1,8 @@
 # 404 Page not found ![Status badge](https://img.shields.io/badge/status-Finished-green)
 
-[DEMO](https://four-card-feature-section-master-sigma-six.vercel.app/)
+[DEMO](https://404-not-foud.vercel.app/)
 
-⚡️ Es un proyecto que realice para reforzar mis conocimientos en HTML, CSS y media queries
+⚡️ Es un proyecto lorealice para reforzar mis conocimientos en HTML, CSS y media queries
 
 ✨ Este proyecto es un challenge de [https://devchallenges.io/](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
 
@@ -12,7 +12,8 @@
 - CSS y BEM
 - Ract - vite ⚡️
 
-![Diseño sin título]()
+![2](https://user-images.githubusercontent.com/58489695/168091770-76dd7da0-735f-4985-8cb2-014850658da0.png)
+
 
 ## 🧾 License
 
