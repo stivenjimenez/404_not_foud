@@ -19,7 +19,7 @@
   },
   "main": "vite.config.js",
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Stiven Jimenez",
+  "license": "MIT",
+  "description": "404 not found pages"
 }
