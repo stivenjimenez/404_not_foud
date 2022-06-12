@@ -5,19 +5,19 @@ const NotFoundPages = () => {
   return (
     <div className="wrapper">
       <div className="header">
-        <span className="header__title">404 NOT FOUND</span>
+        <h1 className="header__title">404 NOT FOUND</h1>
       </div>
 
       <section className="hero__wrapper">
-        <div className="hero__image--wrapper">
+        <div className="hero__imageWrapper">
           <img src={scareCrows} alt="400 image" />
         </div>
 
-        <div className="hero__content--wrapper">
-          <h1 className="hero__title">
+        <div className="hero__contentWrapper">
+          <h2 className="hero__title">
             I have bad news <br />
             for you
-          </h1>
+          </h2>
           <p className="hero__paragraph">
             The page you are looking
             <br /> for might be removed or is
